@@ -1,4 +1,4 @@
-# Sistemas_Embarcados
+# Sistemas Embarcados
 ## Português
 Este repositório contém a implementação de diversos códigos para o Arduino Uno. Além de códigos para sua configuração utilizando os registradores específicos.
 
